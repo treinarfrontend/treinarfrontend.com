@@ -19,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/treinarfrontend/treinarfrontend.com/issues"
   },
-  "homepage": "https://github.com/treinarfrontend/treinarfrontend.com#readme"
+  "homepage": "https://github.com/treinarfrontend/treinarfrontend.com#readme",
+  "dependencies": {
+    "vue": "^2.5.16",
+    "vue-router": "^3.0.1",
+    "vuex": "^3.0.1"
+  }
 }
